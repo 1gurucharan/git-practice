@@ -3,3 +3,4 @@ def greet(name):
 
 
 print(greet("Guru"))
+print(greet("developer"))
