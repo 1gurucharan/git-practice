@@ -4,3 +4,4 @@ def greet(name):
 
 print(greet("Guru"))
 print(greet("developer"))
+print(greet("change on github"))
